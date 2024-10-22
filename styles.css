@@ -459,6 +459,15 @@ li {
 @media (max-width: 435px) {
 
 
+    .navbar_main {
+
+
+        padding-left: 15px;
+
+
+    }
+
+
     .mirror_div {
 
         display: flex;
@@ -534,7 +543,7 @@ li {
 
     .images_subtitle {
 
-        font-size: 1em;
+        font-size: 0.9em;
 
 
     }
@@ -556,7 +565,7 @@ li {
     .table {
 
 
-        height: 250px;
+        height: 200px;
         margin-left: 50px;
 
 
@@ -582,7 +591,7 @@ li {
     .dark_road,
     .garden {
 
-        height: 250px;
+        height: 200px;
         margin-left: 50px;
 
 
@@ -599,7 +608,7 @@ li {
     .skills_title {
 
 
-        font-size: 1em;
+        font-size: 0.9em;
 
 
     }
@@ -622,7 +631,7 @@ li {
     .python {
 
         cursor: pointer;
-        height: 80px;
+        height: 65px;
         margin: 16px;
 
 
@@ -649,7 +658,7 @@ li {
 
     .social_media_icons {
 
-        font-size: 0.7em;
+        font-size: 0.6em;
         width: auto;
 
 
